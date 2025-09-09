@@ -5,22 +5,13 @@ Sou Acadêmica do Curso de **Sistemas de Informação (UFPI)**.
 📍 Picos - PI, Brasil  
 🎓 Universidade Federal do Piauí (UFPI)  
 
----
-
-### 🌐 Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geovanassousa_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-santos-sousa-30b496345)
 
----
-
-### 📊 Minhas estatísticas no GitHub
 ![Geovana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geovanassousa&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanassousa&layout=compact&langs_count=8&theme=radical)
 
----
-
-### 🚀 Tecnologias e Ferramentas
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -33,5 +24,3 @@ Sou Acadêmica do Curso de **Sistemas de Informação (UFPI)**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
-
----
