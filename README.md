@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=8E44AD&size=38&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=150&lines=Bem-vindo+ao+meu+GitHub,;Eu+sou+Geovana+Santos+Sousa!" />
 </div>
 
----
-
 ## 👩‍💻 Sobre mim
 
 Sou estudante de **Sistemas de Informação na Universidade Federal do Piauí (UFPI)**.  
