@@ -11,7 +11,7 @@ Tenho interesse em Desenvolvimento de Software, Engenharia de Software e Gestão
 
 ### 📫 Conecte-se Comigo
 <p align="left">
-  <a href="mailto:geovanasssouza09@gmail.com" target="_blank">
+  <a href="mailto:geovanassousa09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/geovana-santos-sousa-30b496345" target="_blank">
