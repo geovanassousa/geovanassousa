@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=100000&color=8E44AD&center=true&vCenter=true&width=800&repeat=false&lines=Bem-vindo+ao+meu+GitHub," />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=100000&color=8E44AD&center=true&vCenter=true&width=900&repeat=false&lines=Bem-vindo+ao+meu+GitHub,;eu+sou+Geovana+Santos+Souza!" />
 </p>
-
-<h2 align="center" style="color:#8E44AD; font-family:'Fira Code', monospace;">
-Geovana Santos Sousa!
-</h2>
-
 ## 👩‍💻 Sobre mim
 
 Sou estudante de Sistemas de Informação na Universidade Federal do Piauí (UFPI).  
