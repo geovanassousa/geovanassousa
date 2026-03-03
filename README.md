@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=100000&color=8E44AD&center=true&vCenter=true&width=1000&repeat=false&lines=Bem-vindo+ao+meu+GitHub,%0AEu+sou+Geovana+Santos+Souza!" />
-</p>
+<!-- Banner Animado -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=8E44AD&size=38&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=150&lines=Bem-vindo+ao+meu+GitHub,;Eu+sou+Geovana+Santos+Sousa!" />
+</div>
 
 ## 👩‍💻 Sobre mim
 
