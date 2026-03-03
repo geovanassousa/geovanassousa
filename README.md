@@ -4,14 +4,16 @@
 
 ### 👩‍💻 Sobre Mim
 <p>
-  Sou um estudante de <strong>Sistemas de Informação na Universidade Federal do Piauí (UFPI)</strong>, com previsão de conclusão em 2025.2. Tenho grande interesse na área de desenvolvimento de software e gestão de projetos de tecnologia.
+  Sou estudante de Sistemas de Informação na Universidade Federal do Piauí (UFPI).  
+Tenho interesse em Desenvolvimento de Software, Engenharia de Software e Gestão de Projetos de Tecnologia.
 </p>
 
 
 ### 📫 Conecte-se Comigo
-<p align="left">
-  <a href="mailto:eriklustosa086@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/eriklustosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanassousa09@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK)
 </p>
 
 ### 🛠️ Tecnologias e Ferramentas
