@@ -10,7 +10,8 @@ Tenho interesse em Desenvolvimento de Software, Engenharia de Software e Gestão
 
 
 ### 📫 Conecte-se Comigo
-<p [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+<p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanassousa09@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK)
 </p>
