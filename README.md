@@ -1,8 +1,12 @@
-# Olá, eu sou a Geovana Santos 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Bem-vinda+ao+meu+GitHub!;Eu+sou+Geovana+Santos+Souza;Estudante+de+Sistemas+de+Informação+-+UFPI;Foco+em+Desenvolvimento+de+Software" />
+</p>
 
-🎓 Estudante de Sistemas de Informação – UFPI  
-💻 Foco em Desenvolvimento Web  
-🚀 Interessada em oportunidades de estágio em Tecnologia  
+---
+
+🎓 Estudante de Sistemas de Informação na Universidade Federal do Piauí (UFPI).  
+💻 Interesse em Desenvolvimento de Software e Gestão de Projetos de Tecnologia.  
+🚀 Foco em Desenvolvimento Web.
 
 ---
 
@@ -10,27 +14,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-santos-sousa-30b496345)
 
----
-
-## 🚀 Tecnologias que utilizo
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-</p>
+📧 **Email:** geovanasssouza09@gmail.com
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Tecnologias e Ferramentas
 
-![Geovana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geovanassousa&show_icons=true&theme=radical)
+**Linguagens:**  
+Python • JavaScript • PHP • C • Swift  
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanassousa&layout=compact&langs_count=8&theme=radical)
+**Frameworks:**  
+React • Django  
+
+**Banco de Dados:**  
+MySQL • PostgreSQL  
+
+**Ferramentas:**  
+Git • GitHub • Docker • Figma
