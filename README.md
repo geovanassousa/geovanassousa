@@ -1,23 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000000&color=0A66C2&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub;Eu+sou+Geovana+Santos+Souza" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000000&color=0A66C2&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub;Eu+sou+Geovana+Santos+Sousa" />
 </p>
-
----
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação na Universidade Federal do Piauí (UFPI)**.  
-Tenho interesse em **Desenvolvimento de Software, Engenharia de Software e Gestão de Projetos de Tecnologia**, com foco em **Desenvolvimento Web**.
-
----
+Sou estudante de Sistemas de Informação na Universidade Federal do Piauí (UFPI).  
+Tenho interesse em Desenvolvimento de Software, Engenharia de Software e Gestão de Projetos de Tecnologia. 
 
 ## 📬 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-santos-sousa-30b496345)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanasssouza09@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geovanassousa_)
-
----
 
 ## 🛠 Tecnologias e Ferramentas
 
