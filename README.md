@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=8E44AD&center=true&vCenter=true&width=1000&repeat=false&lines=Bem-vindo+ao+meu+GitHub,;Eu+sou+Geovana+Santos+Souza!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=100000&color=8E44AD&center=true&vCenter=true&width=1000&repeat=false&lines=Bem-vindo+ao+meu+GitHub,%0AEu+sou+Geovana+Santos+Souza!" />
 </p>
 
 ## 👩‍💻 Sobre mim
